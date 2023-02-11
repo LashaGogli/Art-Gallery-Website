@@ -86,6 +86,7 @@ h2{
     font-size: 20px;
     font-family: 'Big Shoulders Display';
     letter-spacing: 3.63636px;
+    border: none;
 }
 .DivForButton{
     width: 56px;
